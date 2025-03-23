@@ -15,6 +15,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Registro de Artículos</title>
+        <a href="buscar_articulos.php">Buscador de Artículos</a>
         <style>
             body { font-family: Arial, sans-serif; max-width: 600px; margin: 20px auto; padding: 20px; }
             .form-group { margin-bottom: 15px; }
